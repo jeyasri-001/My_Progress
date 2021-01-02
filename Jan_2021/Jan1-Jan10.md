@@ -25,6 +25,18 @@
 
 - ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM.jpeg)
 
+
+- ✔️ Web Developnment ->>[Css Remaining Topics](https://www.w3schools.com/css/css_positioning.asp)
+
+| S.No | Topics            |
+ | ---  | -------------     |
+ | 1.   | CSS Positioning   | 
+ | 2.   | CSS Overflow      |
+ | 3.   | CSS Float         |
+ | 4.   | CSS Inline-Block  |
+ | 5.   | Css Align         |
+ | 6.   | CSS Combinators   |
+
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(275).png)
 
 - ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM(2).jpeg)
