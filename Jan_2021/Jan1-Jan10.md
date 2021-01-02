@@ -15,6 +15,26 @@
 - ✔️ Fasting ->> [14hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-01%20at%207.18.12%20PM(3).jpeg)
 
 - ✔️ Daily Walking Tracker ->> [9.5ksteps](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Step_Tracker/WhatsApp%20Image%202021-01-01%20at%207.20.12%20PM.jpeg)
+***
+
+## Day 2 ##
+
+- ✔️ Brilliant ->> [Daily problem solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Brilliant/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM(3).jpeg)
+
+- ✔️ Elevate ->> [Daily Training](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Elevate/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM(1).jpeg)
+
+- ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM.jpeg)
+
+- ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(275).png)
+
+- ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-02%20at%209.23.55%20PM(2).jpeg)
+ 
+
+
+
+
+
+
 
 
 
