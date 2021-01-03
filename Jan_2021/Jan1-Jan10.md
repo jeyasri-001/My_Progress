@@ -50,9 +50,6 @@
 - ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-03%20at%208.00.19%20PM.jpeg)
 
 
-- ✔️ Web Developnment ->>[Css Remaining Topics](https://www.w3schools.com/css/css_positioning.asp)
-
-
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(279).png)
 
 - ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-03%20at%208.00.19%20PM(2).jpeg)
