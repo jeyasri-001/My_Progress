@@ -66,6 +66,16 @@
 
 - ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-04%20at%206.34.07%20PM(2).jpeg)
 
+- ✔️ Web Developnment ->>[Css Remaining Topics](https://www.w3schools.com/css/css_positioning.asp)
+
+| S.No | Topics              |
+ | ---  | -------------       |
+ | 1.   | CSS Pseudo-class    | 
+ | 2.   | CSS Pseudo-element  |
+ | 3.   | CSS Opacity         |
+ | 4.   | CSS Navigation Bar  |
+ | 5.   | Css Dropdowns       |
+ | 6.   | CSS Image Gallery   |
 
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(288).png)
 
