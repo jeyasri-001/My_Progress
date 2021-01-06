@@ -101,6 +101,27 @@
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(295).png)
 
 - ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-05%20at%208.20.07%20PM(1).jpeg)
+ ***
+## Day 6 ##
+
+- ✔️ Brilliant ->> [Daily problem solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Brilliant/WhatsApp%20Image%202021-01-06%20at%208.23.15%20PM(1).jpeg)
+
+- ✔️ Elevate ->> [Daily Training](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Elevate/WhatsApp%20Image%202021-01-06%20at%208.23.14%20PM(1).jpeg)
+
+- ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-06%20at%208.23.14%20PM.jpeg)
+
+- ✔️ Web Developnment ->>[Css Remaining Topics](https://www.w3schools.com/css/css_positioning.asp)
+
+| S.No | Topics             |
+ | ---  | ----------------   |
+ | 1.   | CSS Image Sprites  | 
+ | 2.   | CSS Attr Selectors |
+ | 3.   | CSS Forms          |
+ 
+
+- ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(298).png)
+
+- ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-06%20at%208.23.15%20PM.jpeg)
  
 
 
