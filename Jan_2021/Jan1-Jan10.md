@@ -114,9 +114,9 @@
 
 | S.No | Topics             |
  | ---  | ----------------   |
- | 1.   | CSS Image Sprites  | 
- | 2.   | CSS Attr Selectors |
- | 3.   | CSS Forms          |
+ | 1.   | CSS Counters       | 
+ | 2.   | CSS Website Layout |
+
  
 
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(298).png)
