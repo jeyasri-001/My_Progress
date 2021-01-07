@@ -123,7 +123,27 @@
 
 - ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-06%20at%208.23.15%20PM.jpeg)
 ***
+## Day 7 ##
 
+- ✔️ Brilliant ->> [Daily problem solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Brilliant/WhatsApp%20Image%202021-01-07%20at%207.26.52%20PM.jpeg)
+
+- ✔️ Elevate ->> [Daily Training](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Elevate/WhatsApp%20Image%202021-01-07%20at%207.26.52%20PM(2).jpeg)
+
+    -[Got Batch Of Persistent player](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Elevate/WhatsApp%20Image%202021-01-07%20at%207.26.52%20PM(3).jpeg)
+
+    -[Got batch of Streak prodigy](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Elevate/WhatsApp%20Image%202021-01-07%20at%207.26.52%20PM(4).jpeg)
+
+- ✔️ Lumosity ->> [Daily Workout](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Lumosity/WhatsApp%20Image%202021-01-07%20at%207.26.53%20PM.jpeg)
+
+- ✔️ Web Developnment ->>[Css Remaining Topics](https://www.w3schools.com/css/css_positioning.asp)
+
+
+ 
+
+- ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(301).png)
+
+- ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-07%20at%207.26.52%20PM(1).jpeg)
+***
 
 
 
