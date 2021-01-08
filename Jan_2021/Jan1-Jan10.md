@@ -158,7 +158,7 @@
 
 - ✔️ Hackerrank ->> [30Days of Problem Solving](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/Hackerrank/Screenshot%20(304).png)
 
-- ✔️ Fasting ->> [16hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-08%20at%209.09.10%20PM(2).jpeg)
+- ✔️ Fasting ->> [18hrs](https://github.com/jeyasri-001/My_Progress/blob/main/materials/Proof_images/fasting%20app/WhatsApp%20Image%202021-01-08%20at%209.09.10%20PM(2).jpeg)
 
 ***
 
